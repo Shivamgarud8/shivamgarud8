@@ -1,21 +1,22 @@
-<!-- Minimal typing header (decent animation) -->
+<!-- Header -->
 <p align="center">
-  <a href="https://github.com/shivamgarud8" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/shivamgarud8" target="_blank">
     <img
       src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Shivam%20Garud&fontSize=69&fontAlign=50&fontAlignY=35&rotate=0&desc=Cloud%20And%20DevOps%20Engineer&descAlignY=52&descAlign=50&descSize=20"
       alt="Shivam Garud - Capsule header"
     />
   </a>
 </p>
+
+<!-- Typing -->
 <p align="center">
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00B124&center=true&vCenter=true&multiline=true&width=600&lines=...Cloud+%26+DevOps+Engineer...;Bridging+Development+and+Operations+to+deliver+faster%2C+reliable%2C+automated+systems"
-      alt="Typing Animation"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00B124&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;Bridging+Development+and+Operations+for+Fast%2C+Reliable+%26+Automated+Systems"
+    alt="Typing Animation"
+  />
 </p>
 
+<!-- Skills Line -->
 <h3 align="center">
   <b>Building Skills in Cloud & DevOps Engineering | AWS | Git | GitHub | GitLab | Docker | CI/CD | Jenkins | Kubernetes (K8s) | Linux | Terraform | Ansible | Prometheus | Grafana</b>
 </h3>
@@ -26,9 +27,11 @@
     alt="Profile Views"
   />
 </p>
-<hr />
 
-## 🌟 About Me
+<hr/>
+
+<!-- About Me -->
+## 🌟 About Me  
 Hi! I'm **Shivam Garud**, a Cloud & DevOps Engineer obsessed with **automation**, **scalability**, and **cloud innovation**.  
 I build with **AWS**, **Docker**, **Kubernetes (K8s)**, **CI/CD**, and everything that makes systems **faster, smarter, and more efficient**.  
 Always pushing boundaries to create **resilient, production-ready infrastructure**.
@@ -37,6 +40,7 @@ Always pushing boundaries to create **resilient, production-ready infrastructure
 
 ---
 
+<!-- GitHub Stats -->
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivamgarud8&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="49%" />
@@ -45,109 +49,48 @@ Always pushing boundaries to create **resilient, production-ready infrastructure
 
 ---
 
+<!-- Connect With Me -->
 <h3 align="center">🌐 Connect with me:</h3>
 
-<style>
-  .social-container {
-    display: flex;
-    justify-content: center;
-    gap: 25px;
-    margin-top: 15px;
-  }
-
-  .social-icon {
-    height: 45px;
-    width: 45px;
-    transition: 0.3s ease-in-out;
-    border-radius: 50%;
-    padding: 5px;
-  }
-
-  .social-icon:hover {
-    transform: scale(1.25);
-  }
-
-  /* Glow Colors */
-  .linkedin:hover {
-    box-shadow: 0px 0px 15px #0A66C2;
-  }
-
-  .github:hover {
-    box-shadow: 0px 0px 15px #6e7681;
-  }
-
-  .medium:hover {
-    box-shadow: 0px 0px 15px #000000;
-  }
-
-  .instagram:hover {
-    box-shadow: 0px 0px 15px #E1306C;
-  }
-
-  .gmail:hover {
-    box-shadow: 0px 0px 15px #D14836;
-  }
-
-  .whatsapp:hover {
-    box-shadow: 0px 0px 15px #25D366;
-  }
-</style>
-
-<div class="social-container">
+<p align="center">
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/shivam-garud/" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      class="social-icon linkedin" 
-      alt="LinkedIn"
-    />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=0A66C2" width="50px" />
   </a>
+
+  &nbsp;&nbsp;
 
   <!-- GitHub -->
   <a href="https://github.com/shivamgarud8" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
-      class="social-icon github" 
-      alt="GitHub"
-    />
+    <img src="https://img.icons8.com/?size=100&id=12598&format=png&color=ffffff" width="50px" />
   </a>
+
+  &nbsp;&nbsp;
 
   <!-- Medium -->
   <a href="https://medium.com/@shivam.garud2011" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" 
-      class="social-icon medium" 
-      alt="Medium"
-    />
+    <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="50px" />
   </a>
+
+  &nbsp;&nbsp;
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/shivaa_.07_/" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-      class="social-icon instagram" 
-      alt="Instagram"
-    />
+    <img src="https://img.icons8.com/?size=100&id=32292&format=png&color=E1306C" width="50px" />
   </a>
+
+  &nbsp;&nbsp;
 
   <!-- Gmail -->
   <a href="mailto:shivam.garud1807@gmail.com" target="_blank">
-    <img 
-      src="https://www.svgrepo.com/show/223047/gmail.svg" 
-      class="social-icon gmail" 
-      alt="Gmail"
-    />
+    <img src="https://img.icons8.com/?size=100&id=86885&format=png&color=D14836" width="50px" />
   </a>
+
+  &nbsp;&nbsp;
 
   <!-- WhatsApp -->
   <a href="https://wa.me/qr/KUKP64GGPXUSF1" target="_blank">
-    <img 
-      src="https://www.svgrepo.com/show/303150/whatsapp-logo.svg" 
-      class="social-icon whatsapp" 
-      alt="WhatsApp"
-    />
+    <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=25D366" width="50px" />
   </a>
-
-</div>
-
+</p>
