@@ -39,3 +39,11 @@
     width="24"
   />
 </h2>
+## 🌟 About Me  
+Hi! I'm **Shivam Garud**, a Cloud & DevOps Engineer obsessed with **automation, scalability, and cloud innovation**.  
+I build using **AWS, Docker, Kubernetes, CI/CD**, and everything that makes systems **faster, smarter, and more reliable**.  
+
+> 💡 *Pushing boundaries every day to create resilient, production-ready infrastructure.*
+
+---
+
