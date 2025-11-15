@@ -11,8 +11,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&background=FF0BFE00&center=true&vCenter=true&random=true&width=435&lines=Hi+I%60m+Shivam+Garud..!"
-      alt="Typing animation - Hi I'm Shivam Garud..!"
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00B124&center=true&vCenter=true&multiline=true&width=435&lines=Cloud+%26+DevOps+Engineer;Bridging+Development+and+Operations+to+deliver+faster%2C+reliable%2C+and+automated+system)](https://git.io/typing-svg)
     />
   </a>
 </p>
@@ -29,11 +28,4 @@
 
 <h2>Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="sparkle" width="24" /></h2>
 
-<ul>
-  <li><strong>Cloud:</strong> AWS (EC2, S3, IAM, VPC, Lambda)</li>
-  <li><strong>Containers & Orchestration:</strong> Docker, Kubernetes (K8s)</li>
-  <li><strong>CI/CD:</strong> Jenkins, GitHub Actions, GitLab CI</li>
-  <li><strong>Infrastructure as Code:</strong> Terraform, Ansible</li>
-  <li><strong>Monitoring & Logging:</strong> Prometheus, Grafana, ELK</li>
-  <li><strong>OS & Tools:</strong> Linux, Bash, Git, GitHub, GitLab</li>
-</ul>
+
