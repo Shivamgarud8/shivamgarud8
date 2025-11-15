@@ -2,6 +2,7 @@
 
 
 
+https://capsule-render.vercel.app/api?type=waving&height=316&color=gradient&section=header&text=Shivam%20Garud&textBg=false&fontColor=FFFFFF&fontSize=95&fontAlign=50&fontAlignY=38&desc=Cloud%20and%20DevOps%20Engineer&descSize=30&descAlign=50&descAlignY=65&animation=twinkling&stroke=00FFFF&strokeWidth=6
 
 
 
