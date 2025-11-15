@@ -7,8 +7,6 @@
     />
   </a>
 </p>
-
-<!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img
@@ -28,17 +26,7 @@
     alt="Profile Views"
   />
 </p>
-
 <hr />
-
-<h2>
-  Skills
-  <img
-    src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"
-    alt="sparkle"
-    width="24"
-  />
-</h2>
 ## 🌟 About Me  
 Hi! I'm **Shivam Garud**, a Cloud & DevOps Engineer obsessed with **automation, scalability, and cloud innovation**.  
 I build using **AWS, Docker, Kubernetes, CI/CD**, and everything that makes systems **faster, smarter, and more reliable**.  
