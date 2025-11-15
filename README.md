@@ -1,10 +1,11 @@
 <!-- Minimal typing header (decent animation) -->
 <p align="center">
   <a href="https://github.com/shivamgarud8" target="_blank" rel="noopener noreferrer">
-    <img
+
+    
       src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Shivam%20Garud&fontSize=69&fontAlign=50&fontAlignY=35&rotate=0&desc=Cloud%20And%20DevOps%20%20Engineer&descAlignY=52&descAlign=50&descSize=20"
       alt="Shivam Garud - Capsule header"
-    />
+  
   </a>
 </p>
 
