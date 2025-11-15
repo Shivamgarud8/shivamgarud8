@@ -44,39 +44,108 @@ Always pushing boundaries to create **resilient, production-ready infrastructure
 </p>
 
 ---
-
 <h3 align="center">🌐 Connect with me:</h3>
 
-<p align="center">
+<style>
+  .social-container {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-top: 15px;
+  }
+
+  .social-icon {
+    height: 45px;
+    width: 45px;
+    transition: 0.3s ease-in-out;
+    border-radius: 50%;
+    padding: 5px;
+  }
+
+  .social-icon:hover {
+    transform: scale(1.25);
+  }
+
+  /* Glow Colors */
+  .linkedin:hover {
+    box-shadow: 0px 0px 15px #0A66C2;
+  }
+
+  .github:hover {
+    box-shadow: 0px 0px 15px #6e7681;
+  }
+
+  .medium:hover {
+    box-shadow: 0px 0px 15px #000000;
+  }
+
+  .instagram:hover {
+    box-shadow: 0px 0px 15px #E1306C;
+  }
+
+  .gmail:hover {
+    box-shadow: 0px 0px 15px #D14836;
+  }
+
+  .whatsapp:hover {
+    box-shadow: 0px 0px 15px #25D366;
+  }
+</style>
+
+<div class="social-container">
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/shivam-garud/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn" height="40" width="40" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/shivaa_.07_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Instagram" height="40" width="40" />
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      class="social-icon linkedin" 
+      alt="LinkedIn"
+    />
   </a>
 
   <!-- GitHub -->
   <a href="https://github.com/shivamgarud8" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-      alt="GitHub" height="40" width="40" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:shivam.garud1807@gmail.com" target="_blank">
-    <img src="https://www.svgrepo.com/show/223047/gmail.svg"
-      alt="Gmail" height="40" width="40" />
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
+      class="social-icon github" 
+      alt="GitHub"
+    />
   </a>
 
   <!-- Medium -->
   <a href="https://medium.com/@shivam.garud2011" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-      alt="Medium" height="40" width="40" />
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" 
+      class="social-icon medium" 
+      alt="Medium"
+    />
   </a>
 
-</p>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/shivaa_.07_/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+      class="social-icon instagram" 
+      alt="Instagram"
+    />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:shivam.garud1807@gmail.com" target="_blank">
+    <img 
+      src="https://www.svgrepo.com/show/223047/gmail.svg" 
+      class="social-icon gmail" 
+      alt="Gmail"
+    />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/qr/KUKP64GGPXUSF1" target="_blank">
+    <img 
+      src="https://www.svgrepo.com/show/303150/whatsapp-logo.svg" 
+      class="social-icon whatsapp" 
+      alt="WhatsApp"
+    />
+  </a>
+
+</div>
