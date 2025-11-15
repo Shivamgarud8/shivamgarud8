@@ -37,4 +37,10 @@ Always pushing boundaries to create **resilient, production-ready infrastructure
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamgarud8&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=shivamgarud8&theme=tokyonight&hide_border=true&border_radius=12" width="49%" />
+</p>
 
+---
