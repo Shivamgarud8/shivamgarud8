@@ -12,8 +12,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00B124&center=true&vCenter=true&multiline=true&width=600&lines=Cloud+%26+DevOps+Engineer;Bridging+Development+and+Operations+to+Deliver+Fast%2C+Reliable%2C+Automated+Systems"
-      alt="Typing SVG"
+      [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00B124&center=true&vCenter=true&width=435&lines=Cloud+%26+DevOps+Engineer;Bridging+Development+and+Operations+to+deliver+faster%2C+reliable%2C+and+automated+system)](https://git.io/typing-svg)
     />
   </a>
 </p>
