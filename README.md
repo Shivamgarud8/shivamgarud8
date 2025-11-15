@@ -48,4 +48,45 @@ Always pushing boundaries to create **resilient, production-ready infrastructure
 </p>
 
 ---
+<h3 align="center">🌐 Connect with me</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.linkedin.com/in/shivam-garud/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45px" alt="LinkedIn"/>
+      </a>
+    </td>
+
+    <td align="center" width="80">
+      <a href="https://github.com/shivamgarud8" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="45px" alt="GitHub"/>
+      </a>
+    </td>
+
+    <td align="center" width="80">
+      <a href="https://medium.com/@shivam.garud2011" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="45px" alt="Medium"/>
+      </a>
+    </td>
+
+    <td align="center" width="80">
+      <a href="https://www.instagram.com/shivaa_.07_/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="45px" alt="Instagram"/>
+      </a>
+    </td>
+
+    <td align="center" width="80">
+      <a href="mailto:shivam.garud1807@gmail.com" target="_blank">
+        <img src="https://www.svgrepo.com/show/223047/gmail.svg" width="45px" alt="Gmail"/>
+      </a>
+    </td>
+
+    <td align="center" width="80">
+      <a href="https://wa.me/qr/KUKP64GGPXUSF1" target="_blank">
+        <img src="https://www.svgrepo.com/show/303150/whatsapp-logo.svg" width="45px" alt="WhatsApp"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
