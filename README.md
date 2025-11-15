@@ -44,3 +44,39 @@ Always pushing boundaries to create **resilient, production-ready infrastructure
 </p>
 
 ---
+
+<h3 align="center">🌐 Connect with me:</h3>
+
+<p align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/shivam-garud/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn" height="40" width="40" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/shivaa_.07_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram" height="40" width="40" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/shivamgarud8" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+      alt="GitHub" height="40" width="40" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:shivam.garud1807@gmail.com" target="_blank">
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg"
+      alt="Gmail" height="40" width="40" />
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@shivam.garud2011" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+      alt="Medium" height="40" width="40" />
+  </a>
+
+</p>
