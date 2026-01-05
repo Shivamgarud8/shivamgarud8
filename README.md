@@ -89,4 +89,7 @@ Always pushing boundaries to create **resilient, production-ready infrastructure
     </td>
   </tr>
 </table>
-![snake gif](github-snake-dark.svg)
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/shivamgarud/shivamgarud8/main/github-snake-dark.svg)
+
