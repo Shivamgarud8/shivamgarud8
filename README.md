@@ -56,6 +56,17 @@ Always pushing boundaries to create **resilient, production-ready infrastructure
   </a>
 </p>
 
+---
+
+## 🧰 Technology Stack
+
+### Below are some of the technology stacks that I enjoy working with:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,helm,terraform,ansible,jenkins,argocd,git,github,gitlab,nginx,python,bash&perline=20" />
+</p>
+
+---
 
 ---
 <h3 align="center">🌐 Connect with me</h3>
