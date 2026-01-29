@@ -37,17 +37,6 @@ I build with **AWS**, **Docker**, **Kubernetes (K8s)**, **CI/CD**, and everythin
 Always pushing boundaries to create **resilient, production-ready infrastructure**.
 
 > ⚙️ **From code to cloud — automate everything, deploy with confidence, and scale with precision for unstoppable performance.**
----
-
-## 🧰 Technology Stack
-
-### Below are some of the technology stacks that I enjoy working with:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,helm,terraform,ansible,jenkins,argocd,git,github,gitlab,nginx,python,bash&perline=6" />
-</p>
-
----
 
 
 <!-- GitHub Stats -->
