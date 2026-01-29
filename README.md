@@ -39,7 +39,10 @@ Always pushing boundaries to create **resilient, production-ready infrastructure
 > ⚙️ **From code to cloud — automate everything, deploy with confidence, and scale with precision for unstoppable performance.**
 
 ---
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,helm,terraform,jenkins,argocd,git,github,nginx,python,bash&perline=6" />
+</p>
+---
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 <p align="center">
