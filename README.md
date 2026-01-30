@@ -45,6 +45,7 @@ Always pushing boundaries to create **resilient, production-ready infrastructure
   <a href="https://github.com/shivamgarud8">
     <img
       src="https://github-readme-stats.vercel.app/api?username=shivamgarud8&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamgarud8&commits_year=2020)
       width="49%"
     />
   </a>
