@@ -50,7 +50,7 @@ Always pushing boundaries to create **resilient, production-ready infrastructure
   </a>
   <a href="https://github.com/shivamgarud8">
     <img
-      src="https://streak-stats.demolab.com?user=shivamgarud8&theme=tokyonight&hide_border=true&border_radius=12"
+      src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamgarud8&show_icons=true&theme=radical)"
       width="49%"
     />
   </a>
