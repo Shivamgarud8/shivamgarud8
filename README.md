@@ -111,6 +111,9 @@ Always pushing boundaries to create **resilient, production-ready infrastructure
     </td>
   </tr>
 </table>
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shivamgarud)
+
 ## 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/Shivamgarud8/shivamgarud8/main/github-snake-dark.svg)
