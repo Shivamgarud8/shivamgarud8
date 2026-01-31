@@ -112,9 +112,9 @@ Always pushing boundaries to create **resilient, production-ready infrastructure
   </tr>
 </table>
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shivamgarud)
-## 🏆 Badges
 
+## 🏆 Kaggle Badges
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shivamgarud)
 <p align="center">
   <img src="./python.svg" width="80"/>
   <img src="./code-forker.svg" width="80"/>
