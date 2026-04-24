@@ -18,7 +18,7 @@
 
 <!-- Skills Line -->
 <h3 align="center">
-  <b>Building Skills in Cloud & DevOps Engineering | AWS | Git | GitHub | GitLab | Docker | CI/CD | Jenkins | Kubernetes (K8s) | Linux | Terraform | Ansible | Prometheus | Grafana</b>
+  <b>Aspiring Cloud & DevOps Engineer | Python | Linux Platform | AWS |  Git | Docker | Jenkins | Ansible | Kubernetes | Prometheus | Grafana</b>
 </h3>
 
 <p align="center">
